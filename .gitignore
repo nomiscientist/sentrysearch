@@ -1,5 +1,4 @@
 __pycache__/
-.env
 
 test_footage/
 sentrysearch.egg-info/
@@ -12,3 +11,7 @@ notebooks/
 htmlcov/
 coverage.xml
 .coverage
+
+CLAUDE.md
+config.bat
+node_modules
